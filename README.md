@@ -10,10 +10,13 @@ The  pretrained   Text-encoder and  image-encoder in  the MS-COCO dataset:Waitin
 
 
 The  trained   AATM+AttnGAN  model  in the  CUB-Bird  dataset:
+
 https://pan.baidu.com/s/1UXhg0RSH5uMfhkJLD5-CiA 
 passwd: mfxn
 
-The   trained  KTGAN model    in     the CUB-Bird  dataset: https://pan.baidu.com/s/1f-WgUoGdHGmlwD1wzNGjPQ 
+The   trained  KTGAN model    in     the CUB-Bird  dataset: 
+
+https://pan.baidu.com/s/1f-WgUoGdHGmlwD1wzNGjPQ 
 passwd：6b22 
 
 
